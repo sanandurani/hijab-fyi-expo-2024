@@ -1,0 +1,2438 @@
+[
+    {
+        "food_name": "Kabuli Pulao",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 73,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Mantu",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Bolani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Shir Korma",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Qabili Palau",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 24,
+        "category": 3
+    },
+    {
+        "food_name": "Ashak",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Chopan Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Sajji",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Bread",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Shorwa",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Pilaf",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 75,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Borani Banjan",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Kofta",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Burani Kadoo",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Afghan Dumplings",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghan Lamb",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Qormah",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Sambosa",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Ferni",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 75,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Afghan Rice",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 24,
+        "category": 3
+    },
+    {
+        "food_name": "Lamb Karahi",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Salad",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 10,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Mashawa",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Pacha",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Chapli Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Borani Kachalu",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Koofteh",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Qurooti",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 26,
+        "category": 3
+    },
+    {
+        "food_name": "Afghani Pickles",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Chicken",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Chicken Karahi",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Sheer Yakh",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Biryani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 28,
+        "category": 2
+    },
+    {
+        "food_name": "Shami Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Soup",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Bolani Katchalu",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Fish",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Naan",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 25,
+        "category": 2
+    },
+    {
+        "food_name": "Borani Spinach",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Potatoes",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Keema",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Lamb Kebabs",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Falafel",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Dopiaza",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Quroot",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Lamb Pulao",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Biryani Afghani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 26,
+        "category": 2
+    },
+    {
+        "food_name": "Morgh Afghani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 15,
+        "category": 1
+    },
+    {
+        "food_name": "Noni Afghani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Fried Rice",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 24,
+        "category": 3
+    },
+    {
+        "food_name": "Dim Sum",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Sweet and Sour Pork",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Spring Rolls",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 61,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Kung Pao Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Chow Mein",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Peking Duck",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Mapo Tofu",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Hot and Sour Soup",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Egg Rolls",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Char Siu",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Wonton Soup",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Lo Mein",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Dumplings",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Buddha's Delight",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "General Tso's Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 59,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Moo Shu Pork",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 57,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Szechuan Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Chop Suey",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Crab Rangoon",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Beef with Broccoli",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Orange Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 75,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Sesame Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 20,
+        "category": 3
+    },
+    {
+        "food_name": "Egg Foo Young",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Hunan Beef",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Steamed Buns",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Scallion Pancakes",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Shanghai Noodles",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Chicken Feet",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lion's Head Meatballs",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Twice-Cooked Pork",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Jiaozi",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Braised Pork Belly",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Hot Pot",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Zongzi",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Congee",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Century Egg",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Beef Noodles",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Mooncake",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Sichuan Hot Pot",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Tea Eggs",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 25,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Salt and Pepper Squid",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Sichuan Tofu",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Lotus Root Soup",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Mongolian Beef",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Soy Sauce Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Nian Gao",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Ma Po Eggplant",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Xiaolongbao",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Chili Oil",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 5,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Apple",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Banana",
+        "type": "Fruit",
+        "glycemic_index": 51,
+        "glycemic_load": 13,
+        "category": 1
+    },
+    {
+        "food_name": "Orange",
+        "type": "Fruit",
+        "glycemic_index": 43,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Grapes",
+        "type": "Fruit",
+        "glycemic_index": 49,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Mango",
+        "type": "Fruit",
+        "glycemic_index": 56,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Papaya",
+        "type": "Fruit",
+        "glycemic_index": 60,
+        "glycemic_load": 6,
+        "category": 2
+    },
+    {
+        "food_name": "Pineapple",
+        "type": "Fruit",
+        "glycemic_index": 66,
+        "glycemic_load": 6,
+        "category": 2
+    },
+    {
+        "food_name": "Pear",
+        "type": "Fruit",
+        "glycemic_index": 38,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Peach",
+        "type": "Fruit",
+        "glycemic_index": 42,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Plum",
+        "type": "Fruit",
+        "glycemic_index": 53,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Watermelon",
+        "type": "Fruit",
+        "glycemic_index": 72,
+        "glycemic_load": 4,
+        "category": 3
+    },
+    {
+        "food_name": "Strawberry",
+        "type": "Fruit",
+        "glycemic_index": 41,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Blueberry",
+        "type": "Fruit",
+        "glycemic_index": 53,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Blackberry",
+        "type": "Fruit",
+        "glycemic_index": 25,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Raspberry",
+        "type": "Fruit",
+        "glycemic_index": 32,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Kiwi",
+        "type": "Fruit",
+        "glycemic_index": 50,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Cantaloupe",
+        "type": "Fruit",
+        "glycemic_index": 65,
+        "glycemic_load": 4,
+        "category": 2
+    },
+    {
+        "food_name": "Apricot",
+        "type": "Fruit",
+        "glycemic_index": 34,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Cherry",
+        "type": "Fruit",
+        "glycemic_index": 22,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Cranberry",
+        "type": "Fruit",
+        "glycemic_index": 45,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Date",
+        "type": "Fruit",
+        "glycemic_index": 103,
+        "glycemic_load": 42,
+        "category": 3
+    },
+    {
+        "food_name": "Fig",
+        "type": "Fruit",
+        "glycemic_index": 61,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Guava",
+        "type": "Fruit",
+        "glycemic_index": 12,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Lychee",
+        "type": "Fruit",
+        "glycemic_index": 79,
+        "glycemic_load": 16,
+        "category": 3
+    },
+    {
+        "food_name": "Mandarin",
+        "type": "Fruit",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Nectarine",
+        "type": "Fruit",
+        "glycemic_index": 43,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Passionfruit",
+        "type": "Fruit",
+        "glycemic_index": 30,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Pomegranate",
+        "type": "Fruit",
+        "glycemic_index": 53,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Tangerine",
+        "type": "Fruit",
+        "glycemic_index": 42,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Avocado",
+        "type": "Fruit",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Dragon Fruit",
+        "type": "Fruit",
+        "glycemic_index": 48,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Elderberry",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Gooseberry",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Jackfruit",
+        "type": "Fruit",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Mulberry",
+        "type": "Fruit",
+        "glycemic_index": 25,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Olive",
+        "type": "Fruit",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Persimmon",
+        "type": "Fruit",
+        "glycemic_index": 55,
+        "glycemic_load": 11,
+        "category": 2
+    },
+    {
+        "food_name": "Quince",
+        "type": "Fruit",
+        "glycemic_index": 35,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Starfruit",
+        "type": "Fruit",
+        "glycemic_index": 36,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Ugli Fruit",
+        "type": "Fruit",
+        "glycemic_index": 45,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Durian",
+        "type": "Fruit",
+        "glycemic_index": 49,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Coconut",
+        "type": "Fruit",
+        "glycemic_index": 42,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lemon",
+        "type": "Fruit",
+        "glycemic_index": 20,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Lime",
+        "type": "Fruit",
+        "glycemic_index": 32,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Soursop",
+        "type": "Fruit",
+        "glycemic_index": 65,
+        "glycemic_load": 6,
+        "category": 2
+    },
+    {
+        "food_name": "Sapodilla",
+        "type": "Fruit",
+        "glycemic_index": 54,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Longan",
+        "type": "Fruit",
+        "glycemic_index": 58,
+        "glycemic_load": 9,
+        "category": 2
+    },
+    {
+        "food_name": "Rambutan",
+        "type": "Fruit",
+        "glycemic_index": 59,
+        "glycemic_load": 9,
+        "category": 2
+    },
+    {
+        "food_name": "Kumquat",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Jujube",
+        "type": "Fruit",
+        "glycemic_index": 79,
+        "glycemic_load": 23,
+        "category": 3
+    },
+    {
+        "food_name": "Wheat Flour Paratha",
+        "type": "Indian Cuisine",
+        "glycemic_index": 59,
+        "glycemic_load": 26,
+        "category": 2
+    },
+    {
+        "food_name": "Biryani",
+        "type": "Indian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Dal Tadka",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Butter Chicken",
+        "type": "Indian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Samosa",
+        "type": "Indian Cuisine",
+        "glycemic_index": 47,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Chole Bhature",
+        "type": "Indian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 33,
+        "category": 3
+    },
+    {
+        "food_name": "Paneer Tikka",
+        "type": "Indian Cuisine",
+        "glycemic_index": 27,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Aloo Gobi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Palak Paneer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Rogan Josh",
+        "type": "Indian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Kofta",
+        "type": "Indian Cuisine",
+        "glycemic_index": 56,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Dosa",
+        "type": "Indian Cuisine",
+        "glycemic_index": 66,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Idli",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Vada",
+        "type": "Indian Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Pav Bhaji",
+        "type": "Indian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Matar Paneer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Rajma",
+        "type": "Indian Cuisine",
+        "glycemic_index": 28,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Tandoori Chicken",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lamb Curry",
+        "type": "Indian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 13,
+        "category": 2
+    },
+    {
+        "food_name": "Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Pulao",
+        "type": "Indian Cuisine",
+        "glycemic_index": 69,
+        "glycemic_load": 25,
+        "category": 2
+    },
+    {
+        "food_name": "Fish Curry",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Baingan Bharta",
+        "type": "Indian Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Masoor Dal",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Uttapam",
+        "type": "Indian Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Kheer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Jalebi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 83,
+        "glycemic_load": 43,
+        "category": 3
+    },
+    {
+        "food_name": "Gulab Jamun",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Pakora",
+        "type": "Indian Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Dahi Bhalla",
+        "type": "Indian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Sambar",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Rasmalai",
+        "type": "Indian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Sev Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 74,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Bhel Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 69,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Pani Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 23,
+        "category": 3
+    },
+    {
+        "food_name": "Chicken 65",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Naan",
+        "type": "Indian Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 32,
+        "category": 2
+    },
+    {
+        "food_name": "Roti",
+        "type": "Indian Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Malai Kofta",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Bhindi Masala",
+        "type": "Indian Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Shahi Paneer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Khichdi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Kadhi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Dhokla",
+        "type": "Indian Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lassi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 28,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Shrikhand",
+        "type": "Indian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Aloo Paratha",
+        "type": "Indian Cuisine",
+        "glycemic_index": 77,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Kachori",
+        "type": "Indian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Prawn Curry",
+        "type": "Indian Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Mutton Korma",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 13,
+        "category": 1
+    },
+    {
+        "food_name": "Pizza",
+        "type": "Italian Cuisine",
+        "glycemic_index": 80,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Pasta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Lasagna",
+        "type": "Italian Cuisine",
+        "glycemic_index": 63,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Risotto",
+        "type": "Italian Cuisine",
+        "glycemic_index": 69,
+        "glycemic_load": 24,
+        "category": 2
+    },
+    {
+        "food_name": "Bruschetta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Tiramisu",
+        "type": "Italian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 35,
+        "category": 3
+    },
+    {
+        "food_name": "Gelato",
+        "type": "Italian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Focaccia",
+        "type": "Italian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Gnocchi",
+        "type": "Italian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Carbonara",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Bolognese",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Minestrone",
+        "type": "Italian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Polenta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Caprese Salad",
+        "type": "Italian Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Ravioli",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Pesto",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Spaghetti",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Arancini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Osso Buco",
+        "type": "Italian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Cannoli",
+        "type": "Italian Cuisine",
+        "glycemic_index": 76,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Panettone",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 26,
+        "category": 3
+    },
+    {
+        "food_name": "Zabaglione",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Saltimbocca",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Pappardelle",
+        "type": "Italian Cuisine",
+        "glycemic_index": 53,
+        "glycemic_load": 15,
+        "category": 1
+    },
+    {
+        "food_name": "Tortellini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Frittata",
+        "type": "Italian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Antipasto",
+        "type": "Italian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Parmigiana",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Stracciatella",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Cacciucco",
+        "type": "Italian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Porchetta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Suppli",
+        "type": "Italian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Braciole",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Scaloppine",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Frittelle",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Affogato",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Zuppa Toscana",
+        "type": "Italian Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Agnolotti",
+        "type": "Italian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Ribollita",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Torta Caprese",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 20,
+        "category": 3
+    },
+    {
+        "food_name": "Spiedini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Bistecca alla Fiorentina",
+        "type": "Italian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Caponata",
+        "type": "Italian Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Farfalle",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Grissini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Calzone",
+        "type": "Italian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Crostini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Panzanella",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Bucatini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 17,
+        "category": 1
+    },
+    {
+        "food_name": "Tacos",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Burrito",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Quesadilla",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 57,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Enchilada",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 63,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Guacamole",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Nachos",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Churros",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 76,
+        "glycemic_load": 23,
+        "category": 3
+    },
+    {
+        "food_name": "Fajitas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Tamales",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Tortilla Soup",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Elote",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 13,
+        "category": 2
+    },
+    {
+        "food_name": "Huevos Rancheros",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Chilaquiles",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Pozole",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 15,
+        "category": 1
+    },
+    {
+        "food_name": "Salsa",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Pico de Gallo",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Sopes",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Tostadas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 63,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Empanadas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 57,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Mole",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 25,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Carnitas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Barbacoa",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Chimichanga",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 25,
+        "category": 2
+    },
+    {
+        "food_name": "Menudo",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Al Pastor",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Carne Asada",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Flan",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 24,
+        "category": 2
+    },
+    {
+        "food_name": "Horchata",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Pollo Asado",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Refried Beans",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 38,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Chiles Rellenos",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Pork Tamales",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Mexican Rice",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Caldo de Res",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Frijoles Charros",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Tlayudas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Coctel de Camaron",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 38,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Ceviche",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 42,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Pescado Zarandeado",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Birria",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Sopa de Lima",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Arroz con Pollo",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 24,
+        "category": 2
+    },
+    {
+        "food_name": "Taco Salad",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Guajillo Chicken",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Tostada de Ceviche",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Chicharr\u00f3n",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 25,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Sopaipilla",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Gorditas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Mollete",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Carrot",
+        "type": "Vegetable",
+        "glycemic_index": 47,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Broccoli",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Potato",
+        "type": "Vegetable",
+        "glycemic_index": 78,
+        "glycemic_load": 21,
+        "category": 3
+    },
+    {
+        "food_name": "Spinach",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Tomato",
+        "type": "Vegetable",
+        "glycemic_index": 38,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Cauliflower",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Cabbage",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Cucumber",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Eggplant",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Garlic",
+        "type": "Vegetable",
+        "glycemic_index": 30,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Ginger",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Beetroot",
+        "type": "Vegetable",
+        "glycemic_index": 61,
+        "glycemic_load": 5,
+        "category": 2
+    },
+    {
+        "food_name": "Bell Pepper",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Brussels Sprouts",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Lettuce",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Mushroom",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Onion",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Peas",
+        "type": "Vegetable",
+        "glycemic_index": 48,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Pumpkin",
+        "type": "Vegetable",
+        "glycemic_index": 75,
+        "glycemic_load": 3,
+        "category": 3
+    },
+    {
+        "food_name": "Radish",
+        "type": "Vegetable",
+        "glycemic_index": 32,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Sweet Potato",
+        "type": "Vegetable",
+        "glycemic_index": 63,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Turnip",
+        "type": "Vegetable",
+        "glycemic_index": 62,
+        "glycemic_load": 3,
+        "category": 2
+    },
+    {
+        "food_name": "Zucchini",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Artichoke",
+        "type": "Vegetable",
+        "glycemic_index": 20,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Asparagus",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Bok Choy",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Celery",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Collard Greens",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Fennel",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Kale",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Leek",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Okra",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Parsnip",
+        "type": "Vegetable",
+        "glycemic_index": 52,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Shallot",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Swiss Chard",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Watercress",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Yam",
+        "type": "Vegetable",
+        "glycemic_index": 54,
+        "glycemic_load": 18,
+        "category": 1
+    },
+    {
+        "food_name": "Butternut Squash",
+        "type": "Vegetable",
+        "glycemic_index": 51,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Acorn Squash",
+        "type": "Vegetable",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Horseradish",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Rutabaga",
+        "type": "Vegetable",
+        "glycemic_index": 72,
+        "glycemic_load": 9,
+        "category": 3
+    },
+    {
+        "food_name": "Endive",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Dandelion Greens",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Arugula",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Chard",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Chili Pepper",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Corn",
+        "type": "Vegetable",
+        "glycemic_index": 53,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Fiddlehead",
+        "type": "Vegetable",
+        "glycemic_index": 35,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Jicama",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Lotus Root",
+        "type": "Vegetable",
+        "glycemic_index": 33,
+        "glycemic_load": 6,
+        "category": 1
+    }
+]

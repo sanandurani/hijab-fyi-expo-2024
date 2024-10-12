@@ -1,0 +1,666 @@
+{
+  "recipes": [
+    {
+      "name": "Chicken Tacos",
+      "cuisine": "Mexican Cuisine",
+      "image": "tacos",
+      "ingredients": [
+        {
+          "name": "Grilled Chicken",
+          "glycemic_index": 45,
+          "glycemic_load": 8,
+          "category": 1
+        },
+        {
+          "name": "Corn Tortillas",
+          "glycemic_index": 55,
+          "glycemic_load": 13,
+          "category": 2
+        },
+        {
+          "name": "Salsa",
+          "glycemic_index": 10,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Guacamole",
+          "glycemic_index": 15,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Lettuce",
+          "glycemic_index": 15,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Grill chicken and slice into strips.",
+        "Warm corn tortillas and layer with chicken.",
+        "Top with salsa, guacamole, and lettuce."
+      ]
+    },
+    {
+      "name": "Biryani",
+      "cuisine": "Indian Cuisine",
+      "image": "biryani",
+      "ingredients": [
+        {
+          "name": "Basmati Rice",
+          "glycemic_index": 70,
+          "glycemic_load": 25,
+          "category": 3
+        },
+        {
+          "name": "Chicken",
+          "glycemic_index": 45,
+          "glycemic_load": 8,
+          "category": 1
+        },
+        {
+          "name": "Yogurt",
+          "glycemic_index": 35,
+          "glycemic_load": 3,
+          "category": 1
+        },
+        {
+          "name": "Onions",
+          "glycemic_index": 10,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Spices (Turmeric, Cumin, Coriander)",
+          "glycemic_index": 5,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt and spices.",
+        "Cook rice separately with onions and spices.",
+        "Layer cooked rice over the chicken and bake until flavors blend."
+      ]
+    },
+    {
+      "name": "Vegetable Stir-Fry",
+      "cuisine": "Chinese Cuisine",
+      "image": "veg-stir-fry",
+      "ingredients": [
+        {
+          "name": "Broccoli",
+          "glycemic_index": 10,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Carrot",
+          "glycemic_index": 47,
+          "glycemic_load": 3,
+          "category": 1
+        },
+        {
+          "name": "Soy Sauce",
+          "glycemic_index": 15,
+          "glycemic_load": 0,
+          "category": 1
+        },
+        {
+          "name": "Garlic",
+          "glycemic_index": 30,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Ginger",
+          "glycemic_index": 15,
+          "glycemic_load": 1,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Stir-fry garlic and ginger in a pan.",
+        "Add vegetables and stir-fry for 5-7 minutes.",
+        "Add soy sauce and cook for another 2 minutes."
+      ]
+    },
+    {
+      "name": "Lasagna",
+      "cuisine": "Italian Cuisine",
+      "image": "lasagna",
+      "ingredients": [
+        {
+          "name": "Lasagna Noodles",
+          "glycemic_index": 63,
+          "glycemic_load": 22,
+          "category": 2
+        },
+        {
+          "name": "Ground Beef",
+          "glycemic_index": 45,
+          "glycemic_load": 9,
+          "category": 1
+        },
+        {
+          "name": "Tomato Sauce",
+          "glycemic_index": 38,
+          "glycemic_load": 2,
+          "category": 1
+        },
+        {
+          "name": "Mozzarella Cheese",
+          "glycemic_index": 27,
+          "glycemic_load": 1,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Layer cooked lasagna noodles with beef and tomato sauce.",
+        "Top with mozzarella cheese.",
+        "Bake for 30 minutes at 350°F."
+      ]
+    },
+    {
+      "name": "Paneer Tikka",
+      "cuisine": "Indian Cuisine",
+      "image": "paneer-tikka",
+      "ingredients": [
+        {
+          "name": "Paneer",
+          "glycemic_index": 27,
+          "glycemic_load": 6,
+          "category": 1
+        },
+        {
+          "name": "Yogurt",
+          "glycemic_index": 35,
+          "glycemic_load": 3,
+          "category": 1
+        },
+        {
+          "name": "Spices (Turmeric, Cumin, Coriander)",
+          "glycemic_index": 5,
+          "glycemic_load": 0,
+          "category": 1
+        },
+        {
+          "name": "Bell Pepper",
+          "glycemic_index": 15,
+          "glycemic_load": 1,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Marinate paneer and bell pepper in yogurt and spices.",
+        "Grill until golden brown on all sides.",
+        "Serve with green chutney."
+      ]
+    },
+    {
+      "name": "Pasta Carbonara",
+      "cuisine": "Italian Cuisine",
+      "image": "pasta-carbonara",
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "glycemic_index": 55,
+          "glycemic_load": 17,
+          "category": 2
+        },
+        {
+          "name": "Eggs",
+          "glycemic_index": 0,
+          "glycemic_load": 0,
+          "category": 1
+        },
+        {
+          "name": "Parmesan Cheese",
+          "glycemic_index": 28,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Bacon",
+          "glycemic_index": 0,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Cook spaghetti and set aside.",
+        "Mix eggs and parmesan cheese in a bowl.",
+        "Stir in cooked bacon and toss with the spaghetti."
+      ]
+    },
+    {
+      "name": "Afghani Kebab",
+      "cuisine": "Afghani Cuisine",
+      "image" : "afghani-kebab" ,
+      "ingredients": [
+        {
+          "name": "Lamb",
+          "glycemic_index": 45,
+          "glycemic_load": 9,
+          "category": 1
+        },
+        {
+          "name": "Onions",
+          "glycemic_index": 10,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Garlic",
+          "glycemic_index": 30,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Spices (Coriander, Cumin)",
+          "glycemic_index": 5,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Marinate lamb in garlic and spices.",
+        "Grill the lamb kebabs until fully cooked.",
+        "Serve with naan bread and yogurt."
+      ]
+    },
+    {
+      "name": "Fish Curry",
+      "cuisine": "Indian Cuisine",
+      "image" : "fish-curry" ,
+      "ingredients": [
+        {
+          "name": "Fish",
+          "glycemic_index": 45,
+          "glycemic_load": 8,
+          "category": 1
+        },
+        {
+          "name": "Coconut Milk",
+          "glycemic_index": 42,
+          "glycemic_load": 6,
+          "category": 1
+        },
+        {
+          "name": "Tomato Paste",
+          "glycemic_index": 38,
+          "glycemic_load": 2,
+          "category": 1
+        },
+        {
+          "name": "Spices (Turmeric, Chili Powder)",
+          "glycemic_index": 5,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Cook fish with tomato paste and coconut milk.",
+        "Add spices and simmer for 15-20 minutes.",
+        "Serve with rice or naan."
+      ]
+    },
+    {
+      "name": "Chicken Stir-Fry",
+      "cuisine": "Chinese Cuisine",
+      "image" : "chicken-stir-fry" ,
+      "ingredients": [
+        {
+          "name": "Chicken",
+          "glycemic_index": 45,
+          "glycemic_load": 8,
+          "category": 1
+        },
+        {
+          "name": "Bell Pepper",
+          "glycemic_index": 15,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Soy Sauce",
+          "glycemic_index": 15,
+          "glycemic_load": 0,
+          "category": 1
+        },
+        {
+          "name": "Garlic",
+          "glycemic_index": 30,
+          "glycemic_load": 1,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Stir-fry chicken and garlic in a pan.",
+        "Add bell pepper and soy sauce and cook for 5 minutes.",
+        "Serve with rice or noodles."
+      ]
+    },
+    {
+      "name": "Fried Rice",
+      "cuisine": "Chinese Cuisine",
+      "image" : "fried-rice" ,
+      "ingredients": [
+        {
+          "name": "Rice",
+          "glycemic_index": 72,
+          "glycemic_load": 24,
+          "category": 3
+        },
+        {
+          "name": "Eggs",
+          "glycemic_index": 0,
+          "glycemic_load": 0,
+          "category": 1
+        },
+        {
+          "name": "Carrots",
+          "glycemic_index": 47,
+          "glycemic_load": 3,
+          "category": 1
+        },
+        {
+          "name": "Soy Sauce",
+          "glycemic_index": 15,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Cook rice and set aside.",
+        "Scramble eggs and stir-fry with carrots.",
+        "Add rice and soy sauce, and stir-fry for 5 minutes."
+      ]
+    },
+    {
+      "name": "Quesadilla",
+      "cuisine": "Mexican Cuisine",
+      "image" : "quesadilla" ,
+      "ingredients": [
+        {
+          "name": "Tortilla",
+          "glycemic_index": 57,
+          "glycemic_load": 18,
+          "category": 2
+        },
+        {
+          "name": "Cheese",
+          "glycemic_index": 30,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Chicken",
+          "glycemic_index": 45,
+          "glycemic_load": 8,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Fill tortilla with cheese and chicken.",
+        "Cook on both sides until golden brown."
+      ]
+    },
+    {
+      "name": "Dosa",
+      "cuisine": "Indian Cuisine",
+      "image" : "dosa" ,
+      "ingredients": [
+        {
+          "name": "Dosa Batter",
+          "glycemic_index": 66,
+          "glycemic_load": 20,
+          "category": 2
+        },
+        {
+          "name": "Potato Masala",
+          "glycemic_index": 78,
+          "glycemic_load": 15,
+          "category": 3
+        }
+      ],
+      "instructions": [
+        "Prepare the dosa on a hot skillet.",
+        "Fill with potato masala and serve hot."
+      ]
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "cuisine": "Chinese Cuisine",
+      "image" : "shrimp-fried-rice" ,
+      "ingredients": [
+        {
+          "name": "Rice",
+          "glycemic_index": 72,
+          "glycemic_load": 24,
+          "category": 3
+        },
+        {
+          "name": "Shrimp",
+          "glycemic_index": 45,
+          "glycemic_load": 7,
+          "category": 1
+        },
+        {
+          "name": "Soy Sauce",
+          "glycemic_index": 15,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Cook rice and set aside.",
+        "Stir-fry shrimp and soy sauce, add rice, and stir-fry together."
+      ]
+    },
+    {
+      "name": "Tandoori Chicken",
+      "cuisine": "Indian Cuisine",
+      "image" : "tandoori-chicken" ,
+      "ingredients": [
+        {
+          "name": "Chicken",
+          "glycemic_index": 45,
+          "glycemic_load": 8,
+          "category": 1
+        },
+        {
+          "name": "Yogurt",
+          "glycemic_index": 35,
+          "glycemic_load": 3,
+          "category": 1
+        },
+        {
+          "name": "Spices (Turmeric, Chili Powder)",
+          "glycemic_index": 5,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt and spices.",
+        "Grill until fully cooked."
+      ]
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "cuisine": "Italian Cuisine",
+      "image" : "eggplant-parmesan" ,
+      "ingredients": [
+        {
+          "name": "Eggplant",
+          "glycemic_index": 15,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Mozzarella Cheese",
+          "glycemic_index": 27,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Tomato Sauce",
+          "glycemic_index": 38,
+          "glycemic_load": 2,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Layer slices of eggplant with tomato sauce and mozzarella cheese.",
+        "Bake until golden."
+      ]
+    },
+    {
+      "name": "Samosa",
+      "cuisine": "Indian Cuisine",
+      "image" : "samosa" ,
+      "ingredients": [
+        {
+          "name": "Pastry",
+          "glycemic_index": 47,
+          "glycemic_load": 10,
+          "category": 1
+        },
+        {
+          "name": "Potato",
+          "glycemic_index": 78,
+          "glycemic_load": 21,
+          "category": 3
+        },
+        {
+          "name": "Peas",
+          "glycemic_index": 48,
+          "glycemic_load": 4,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Fill pastry with potato and peas mixture.",
+        "Fry until golden and crispy."
+      ]
+    },
+    {
+      "name": "Guacamole with Chips",
+      "cuisine": "Mexican Cuisine",
+      "image" : "guacamole-with-chips" ,
+      "ingredients": [
+        {
+          "name": "Avocado",
+          "glycemic_index": 15,
+          "glycemic_load": 0,
+          "category": 1
+        },
+        {
+          "name": "Tortilla Chips",
+          "glycemic_index": 72,
+          "glycemic_load": 25,
+          "category": 3
+        },
+        {
+          "name": "Lime",
+          "glycemic_index": 32,
+          "glycemic_load": 2,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Mash avocado with lime juice and salt.",
+        "Serve with tortilla chips."
+      ]
+    },
+    {
+      "name": "Chapli Kebab",
+      "cuisine": "Afghani Cuisine",
+      "image" : "chapli-kebab" ,
+      "ingredients": [
+        {
+          "name": "Ground Beef",
+          "glycemic_index": 45,
+          "glycemic_load": 9,
+          "category": 1
+        },
+        {
+          "name": "Onions",
+          "glycemic_index": 10,
+          "glycemic_load": 1,
+          "category": 1
+        },
+        {
+          "name": "Garlic",
+          "glycemic_index": 30,
+          "glycemic_load": 1,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Mix ground beef with onions, garlic, and spices.",
+        "Form into patties and grill until cooked through."
+      ]
+    },
+    {
+      "name": "Ravioli with Tomato Sauce",
+      "cuisine": "Italian Cuisine",
+      "image" : "violi-with-tomato-sauce" ,
+      "ingredients": [
+        {
+          "name": "Ravioli",
+          "glycemic_index": 70,
+          "glycemic_load": 25,
+          "category": 3
+        },
+        {
+          "name": "Tomato Sauce",
+          "glycemic_index": 38,
+          "glycemic_load": 2,
+          "category": 1
+        },
+        {
+          "name": "Parmesan Cheese",
+          "glycemic_index": 28,
+          "glycemic_load": 1,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Boil ravioli until cooked.",
+        "Top with tomato sauce and parmesan cheese."
+      ]
+    },
+    {
+      "name": "Prawn Curry",
+      "cuisine": "Indian Cuisine",
+      "image" : "prawn-curry" ,
+      "ingredients": [
+        {
+          "name": "Prawns",
+          "glycemic_index": 45,
+          "glycemic_load": 8,
+          "category": 1
+        },
+        {
+          "name": "Coconut Milk",
+          "glycemic_index": 42,
+          "glycemic_load": 6,
+          "category": 1
+        },
+        {
+          "name": "Spices (Turmeric, Coriander)",
+          "glycemic_index": 5,
+          "glycemic_load": 0,
+          "category": 1
+        }
+      ],
+      "instructions": [
+        "Simmer prawns in coconut milk with spices.",
+        "Serve with rice or naan."
+      ]
+    }
+  ]
+}

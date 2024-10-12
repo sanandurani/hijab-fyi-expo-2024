@@ -1,0 +1,345 @@
+[
+    {
+        "food_name": "Tacos",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Burrito",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Quesadilla",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 57,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Enchilada",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 63,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Guacamole",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Nachos",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Churros",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 76,
+        "glycemic_load": 23,
+        "category": 3
+    },
+    {
+        "food_name": "Fajitas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Tamales",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Tortilla Soup",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Elote",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 13,
+        "category": 2
+    },
+    {
+        "food_name": "Huevos Rancheros",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Chilaquiles",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Pozole",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 15,
+        "category": 1
+    },
+    {
+        "food_name": "Salsa",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Pico de Gallo",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Sopes",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Tostadas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 63,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Empanadas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 57,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Mole",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 25,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Carnitas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Barbacoa",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Chimichanga",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 25,
+        "category": 2
+    },
+    {
+        "food_name": "Menudo",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Al Pastor",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Carne Asada",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Flan",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 24,
+        "category": 2
+    },
+    {
+        "food_name": "Horchata",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Pollo Asado",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Refried Beans",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 38,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Chiles Rellenos",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Pork Tamales",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Mexican Rice",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Caldo de Res",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Frijoles Charros",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Tlayudas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Coctel de Camaron",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 38,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Ceviche",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 42,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Pescado Zarandeado",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Birria",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Sopa de Lima",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Arroz con Pollo",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 24,
+        "category": 2
+    },
+    {
+        "food_name": "Taco Salad",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Guajillo Chicken",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Tostada de Ceviche",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Chicharr\u00f3n",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 25,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Sopaipilla",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Gorditas",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Mollete",
+        "type": "Mexican Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 16,
+        "category": 2
+    }
+]

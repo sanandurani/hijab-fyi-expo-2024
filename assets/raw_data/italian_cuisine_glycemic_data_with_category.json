@@ -1,0 +1,345 @@
+[
+    {
+        "food_name": "Pizza",
+        "type": "Italian Cuisine",
+        "glycemic_index": 80,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Pasta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Lasagna",
+        "type": "Italian Cuisine",
+        "glycemic_index": 63,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Risotto",
+        "type": "Italian Cuisine",
+        "glycemic_index": 69,
+        "glycemic_load": 24,
+        "category": 2
+    },
+    {
+        "food_name": "Bruschetta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Tiramisu",
+        "type": "Italian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 35,
+        "category": 3
+    },
+    {
+        "food_name": "Gelato",
+        "type": "Italian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Focaccia",
+        "type": "Italian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Gnocchi",
+        "type": "Italian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Carbonara",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Bolognese",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Minestrone",
+        "type": "Italian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Polenta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Caprese Salad",
+        "type": "Italian Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Ravioli",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Pesto",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Spaghetti",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Arancini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Osso Buco",
+        "type": "Italian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Cannoli",
+        "type": "Italian Cuisine",
+        "glycemic_index": 76,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Panettone",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 26,
+        "category": 3
+    },
+    {
+        "food_name": "Zabaglione",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Saltimbocca",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Pappardelle",
+        "type": "Italian Cuisine",
+        "glycemic_index": 53,
+        "glycemic_load": 15,
+        "category": 1
+    },
+    {
+        "food_name": "Tortellini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Frittata",
+        "type": "Italian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Antipasto",
+        "type": "Italian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Parmigiana",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Stracciatella",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Cacciucco",
+        "type": "Italian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Porchetta",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Suppli",
+        "type": "Italian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Braciole",
+        "type": "Italian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Scaloppine",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Frittelle",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Affogato",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Zuppa Toscana",
+        "type": "Italian Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Agnolotti",
+        "type": "Italian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Ribollita",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Torta Caprese",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 20,
+        "category": 3
+    },
+    {
+        "food_name": "Spiedini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Bistecca alla Fiorentina",
+        "type": "Italian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Caponata",
+        "type": "Italian Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Farfalle",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Grissini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Calzone",
+        "type": "Italian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Crostini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Panzanella",
+        "type": "Italian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Bucatini",
+        "type": "Italian Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 17,
+        "category": 1
+    }
+]

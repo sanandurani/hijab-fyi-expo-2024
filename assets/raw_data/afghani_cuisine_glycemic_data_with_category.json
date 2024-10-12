@@ -1,0 +1,352 @@
+[
+    {
+        "food_name": "Kabuli Pulao",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 73,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Mantu",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Bolani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Shir Korma",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Qabili Palau",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 24,
+        "category": 3
+    },
+    {
+        "food_name": "Ashak",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Chopan Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Sajji",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Bread",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Shorwa",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Pilaf",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 75,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Borani Banjan",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Kofta",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Burani Kadoo",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Afghan Dumplings",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghan Lamb",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Qormah",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Sambosa",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Ferni",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 75,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Afghan Rice",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 24,
+        "category": 3
+    },
+    {
+        "food_name": "Lamb Karahi",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Salad",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 10,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Mashawa",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Pacha",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Chapli Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Borani Kachalu",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Koofteh",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Qurooti",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 26,
+        "category": 3
+    },
+    {
+        "food_name": "Afghani Pickles",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Chicken",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Chicken Karahi",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Sheer Yakh",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Biryani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 28,
+        "category": 2
+    },
+    {
+        "food_name": "Shami Kebab",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Soup",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Bolani Katchalu",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Fish",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Naan",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 25,
+        "category": 2
+    },
+    {
+        "food_name": "Borani Spinach",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Afghan Potatoes",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Keema",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Lamb Kebabs",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Afghani Falafel",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Dopiaza",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Quroot",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Afghani Lamb Pulao",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Biryani Afghani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 26,
+        "category": 2
+    },
+    {
+        "food_name": "Morgh Afghani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 15,
+        "category": 1
+    },
+    {
+        "food_name": "Noni Afghani",
+        "type": "Afghani Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    }
+]

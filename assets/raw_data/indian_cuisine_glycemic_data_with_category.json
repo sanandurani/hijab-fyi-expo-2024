@@ -1,0 +1,352 @@
+[
+    {
+        "food_name": "Wheat Flour Paratha",
+        "type": "Indian Cuisine",
+        "glycemic_index": 59,
+        "glycemic_load": 26,
+        "category": 2
+    },
+    {
+        "food_name": "Biryani",
+        "type": "Indian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Dal Tadka",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Butter Chicken",
+        "type": "Indian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Samosa",
+        "type": "Indian Cuisine",
+        "glycemic_index": 47,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Chole Bhature",
+        "type": "Indian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 33,
+        "category": 3
+    },
+    {
+        "food_name": "Paneer Tikka",
+        "type": "Indian Cuisine",
+        "glycemic_index": 27,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Aloo Gobi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Palak Paneer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Rogan Josh",
+        "type": "Indian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Kofta",
+        "type": "Indian Cuisine",
+        "glycemic_index": 56,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Dosa",
+        "type": "Indian Cuisine",
+        "glycemic_index": 66,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Idli",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Vada",
+        "type": "Indian Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Pav Bhaji",
+        "type": "Indian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Matar Paneer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Rajma",
+        "type": "Indian Cuisine",
+        "glycemic_index": 28,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Tandoori Chicken",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lamb Curry",
+        "type": "Indian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 13,
+        "category": 2
+    },
+    {
+        "food_name": "Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Pulao",
+        "type": "Indian Cuisine",
+        "glycemic_index": 69,
+        "glycemic_load": 25,
+        "category": 2
+    },
+    {
+        "food_name": "Fish Curry",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Baingan Bharta",
+        "type": "Indian Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Masoor Dal",
+        "type": "Indian Cuisine",
+        "glycemic_index": 30,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Uttapam",
+        "type": "Indian Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Kheer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Jalebi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 83,
+        "glycemic_load": 43,
+        "category": 3
+    },
+    {
+        "food_name": "Gulab Jamun",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Pakora",
+        "type": "Indian Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Dahi Bhalla",
+        "type": "Indian Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Sambar",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Rasmalai",
+        "type": "Indian Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Sev Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 74,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Bhel Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 69,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Pani Puri",
+        "type": "Indian Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 23,
+        "category": 3
+    },
+    {
+        "food_name": "Chicken 65",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Naan",
+        "type": "Indian Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 32,
+        "category": 2
+    },
+    {
+        "food_name": "Roti",
+        "type": "Indian Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Malai Kofta",
+        "type": "Indian Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Bhindi Masala",
+        "type": "Indian Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Shahi Paneer",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Khichdi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Kadhi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Dhokla",
+        "type": "Indian Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lassi",
+        "type": "Indian Cuisine",
+        "glycemic_index": 28,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Shrikhand",
+        "type": "Indian Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Aloo Paratha",
+        "type": "Indian Cuisine",
+        "glycemic_index": 77,
+        "glycemic_load": 28,
+        "category": 3
+    },
+    {
+        "food_name": "Kachori",
+        "type": "Indian Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Prawn Curry",
+        "type": "Indian Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Mutton Korma",
+        "type": "Indian Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 13,
+        "category": 1
+    }
+]

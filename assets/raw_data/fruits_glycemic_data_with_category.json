@@ -1,0 +1,352 @@
+[
+    {
+        "food_name": "Apple",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Banana",
+        "type": "Fruit",
+        "glycemic_index": 51,
+        "glycemic_load": 13,
+        "category": 1
+    },
+    {
+        "food_name": "Orange",
+        "type": "Fruit",
+        "glycemic_index": 43,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Grapes",
+        "type": "Fruit",
+        "glycemic_index": 49,
+        "glycemic_load": 11,
+        "category": 1
+    },
+    {
+        "food_name": "Mango",
+        "type": "Fruit",
+        "glycemic_index": 56,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Papaya",
+        "type": "Fruit",
+        "glycemic_index": 60,
+        "glycemic_load": 6,
+        "category": 2
+    },
+    {
+        "food_name": "Pineapple",
+        "type": "Fruit",
+        "glycemic_index": 66,
+        "glycemic_load": 6,
+        "category": 2
+    },
+    {
+        "food_name": "Pear",
+        "type": "Fruit",
+        "glycemic_index": 38,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Peach",
+        "type": "Fruit",
+        "glycemic_index": 42,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Plum",
+        "type": "Fruit",
+        "glycemic_index": 53,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Watermelon",
+        "type": "Fruit",
+        "glycemic_index": 72,
+        "glycemic_load": 4,
+        "category": 3
+    },
+    {
+        "food_name": "Strawberry",
+        "type": "Fruit",
+        "glycemic_index": 41,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Blueberry",
+        "type": "Fruit",
+        "glycemic_index": 53,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Blackberry",
+        "type": "Fruit",
+        "glycemic_index": 25,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Raspberry",
+        "type": "Fruit",
+        "glycemic_index": 32,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Kiwi",
+        "type": "Fruit",
+        "glycemic_index": 50,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Cantaloupe",
+        "type": "Fruit",
+        "glycemic_index": 65,
+        "glycemic_load": 4,
+        "category": 2
+    },
+    {
+        "food_name": "Apricot",
+        "type": "Fruit",
+        "glycemic_index": 34,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Cherry",
+        "type": "Fruit",
+        "glycemic_index": 22,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Cranberry",
+        "type": "Fruit",
+        "glycemic_index": 45,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Date",
+        "type": "Fruit",
+        "glycemic_index": 103,
+        "glycemic_load": 42,
+        "category": 3
+    },
+    {
+        "food_name": "Fig",
+        "type": "Fruit",
+        "glycemic_index": 61,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Guava",
+        "type": "Fruit",
+        "glycemic_index": 12,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Lychee",
+        "type": "Fruit",
+        "glycemic_index": 79,
+        "glycemic_load": 16,
+        "category": 3
+    },
+    {
+        "food_name": "Mandarin",
+        "type": "Fruit",
+        "glycemic_index": 30,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Nectarine",
+        "type": "Fruit",
+        "glycemic_index": 43,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Passionfruit",
+        "type": "Fruit",
+        "glycemic_index": 30,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Pomegranate",
+        "type": "Fruit",
+        "glycemic_index": 53,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Tangerine",
+        "type": "Fruit",
+        "glycemic_index": 42,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Avocado",
+        "type": "Fruit",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Dragon Fruit",
+        "type": "Fruit",
+        "glycemic_index": 48,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Elderberry",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Gooseberry",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Jackfruit",
+        "type": "Fruit",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Mulberry",
+        "type": "Fruit",
+        "glycemic_index": 25,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Olive",
+        "type": "Fruit",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Persimmon",
+        "type": "Fruit",
+        "glycemic_index": 55,
+        "glycemic_load": 11,
+        "category": 2
+    },
+    {
+        "food_name": "Quince",
+        "type": "Fruit",
+        "glycemic_index": 35,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Starfruit",
+        "type": "Fruit",
+        "glycemic_index": 36,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Ugli Fruit",
+        "type": "Fruit",
+        "glycemic_index": 45,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Durian",
+        "type": "Fruit",
+        "glycemic_index": 49,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Coconut",
+        "type": "Fruit",
+        "glycemic_index": 42,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lemon",
+        "type": "Fruit",
+        "glycemic_index": 20,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Lime",
+        "type": "Fruit",
+        "glycemic_index": 32,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Soursop",
+        "type": "Fruit",
+        "glycemic_index": 65,
+        "glycemic_load": 6,
+        "category": 2
+    },
+    {
+        "food_name": "Sapodilla",
+        "type": "Fruit",
+        "glycemic_index": 54,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Longan",
+        "type": "Fruit",
+        "glycemic_index": 58,
+        "glycemic_load": 9,
+        "category": 2
+    },
+    {
+        "food_name": "Rambutan",
+        "type": "Fruit",
+        "glycemic_index": 59,
+        "glycemic_load": 9,
+        "category": 2
+    },
+    {
+        "food_name": "Kumquat",
+        "type": "Fruit",
+        "glycemic_index": 40,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Jujube",
+        "type": "Fruit",
+        "glycemic_index": 79,
+        "glycemic_load": 23,
+        "category": 3
+    }
+]

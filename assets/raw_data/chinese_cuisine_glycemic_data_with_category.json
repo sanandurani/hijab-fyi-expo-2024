@@ -1,0 +1,352 @@
+[
+    {
+        "food_name": "Fried Rice",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 72,
+        "glycemic_load": 24,
+        "category": 3
+    },
+    {
+        "food_name": "Dim Sum",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Sweet and Sour Pork",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 25,
+        "category": 3
+    },
+    {
+        "food_name": "Spring Rolls",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 61,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Kung Pao Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 52,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Chow Mein",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 58,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Peking Duck",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Mapo Tofu",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Hot and Sour Soup",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 20,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Egg Rolls",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Char Siu",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Wonton Soup",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Lo Mein",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Dumplings",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 62,
+        "glycemic_load": 16,
+        "category": 2
+    },
+    {
+        "food_name": "Buddha's Delight",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 35,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "General Tso's Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 59,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Moo Shu Pork",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 57,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Szechuan Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Chop Suey",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Crab Rangoon",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Beef with Broccoli",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Orange Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 75,
+        "glycemic_load": 22,
+        "category": 3
+    },
+    {
+        "food_name": "Sesame Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 20,
+        "category": 3
+    },
+    {
+        "food_name": "Egg Foo Young",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Hunan Beef",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 8,
+        "category": 1
+    },
+    {
+        "food_name": "Steamed Buns",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 22,
+        "category": 2
+    },
+    {
+        "food_name": "Scallion Pancakes",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 14,
+        "category": 2
+    },
+    {
+        "food_name": "Shanghai Noodles",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Chicken Feet",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Lion's Head Meatballs",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 10,
+        "category": 1
+    },
+    {
+        "food_name": "Twice-Cooked Pork",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 12,
+        "category": 2
+    },
+    {
+        "food_name": "Jiaozi",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Braised Pork Belly",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Hot Pot",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 48,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Zongzi",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 15,
+        "category": 2
+    },
+    {
+        "food_name": "Congee",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 68,
+        "glycemic_load": 23,
+        "category": 2
+    },
+    {
+        "food_name": "Century Egg",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Beef Noodles",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 19,
+        "category": 2
+    },
+    {
+        "food_name": "Mooncake",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 70,
+        "glycemic_load": 30,
+        "category": 3
+    },
+    {
+        "food_name": "Sichuan Hot Pot",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Tea Eggs",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 25,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Salt and Pepper Squid",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 12,
+        "category": 1
+    },
+    {
+        "food_name": "Sichuan Tofu",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 55,
+        "glycemic_load": 10,
+        "category": 2
+    },
+    {
+        "food_name": "Lotus Root Soup",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 45,
+        "glycemic_load": 6,
+        "category": 1
+    },
+    {
+        "food_name": "Mongolian Beef",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Soy Sauce Chicken",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 50,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Nian Gao",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 65,
+        "glycemic_load": 20,
+        "category": 2
+    },
+    {
+        "food_name": "Ma Po Eggplant",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Xiaolongbao",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 60,
+        "glycemic_load": 18,
+        "category": 2
+    },
+    {
+        "food_name": "Chili Oil",
+        "type": "Chinese Cuisine",
+        "glycemic_index": 5,
+        "glycemic_load": 0,
+        "category": 1
+    }
+]

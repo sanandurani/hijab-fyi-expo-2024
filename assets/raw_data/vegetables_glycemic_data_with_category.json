@@ -1,0 +1,352 @@
+[
+    {
+        "food_name": "Carrot",
+        "type": "Vegetable",
+        "glycemic_index": 47,
+        "glycemic_load": 3,
+        "category": 1
+    },
+    {
+        "food_name": "Broccoli",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Potato",
+        "type": "Vegetable",
+        "glycemic_index": 78,
+        "glycemic_load": 21,
+        "category": 3
+    },
+    {
+        "food_name": "Spinach",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Tomato",
+        "type": "Vegetable",
+        "glycemic_index": 38,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Cauliflower",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Cabbage",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Cucumber",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Eggplant",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Garlic",
+        "type": "Vegetable",
+        "glycemic_index": 30,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Ginger",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Beetroot",
+        "type": "Vegetable",
+        "glycemic_index": 61,
+        "glycemic_load": 5,
+        "category": 2
+    },
+    {
+        "food_name": "Bell Pepper",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Brussels Sprouts",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Lettuce",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Mushroom",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Onion",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Peas",
+        "type": "Vegetable",
+        "glycemic_index": 48,
+        "glycemic_load": 4,
+        "category": 1
+    },
+    {
+        "food_name": "Pumpkin",
+        "type": "Vegetable",
+        "glycemic_index": 75,
+        "glycemic_load": 3,
+        "category": 3
+    },
+    {
+        "food_name": "Radish",
+        "type": "Vegetable",
+        "glycemic_index": 32,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Sweet Potato",
+        "type": "Vegetable",
+        "glycemic_index": 63,
+        "glycemic_load": 17,
+        "category": 2
+    },
+    {
+        "food_name": "Turnip",
+        "type": "Vegetable",
+        "glycemic_index": 62,
+        "glycemic_load": 3,
+        "category": 2
+    },
+    {
+        "food_name": "Zucchini",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Artichoke",
+        "type": "Vegetable",
+        "glycemic_index": 20,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Asparagus",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Bok Choy",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Celery",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Collard Greens",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Fennel",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Kale",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Leek",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Okra",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Parsnip",
+        "type": "Vegetable",
+        "glycemic_index": 52,
+        "glycemic_load": 5,
+        "category": 1
+    },
+    {
+        "food_name": "Shallot",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Swiss Chard",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Watercress",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Yam",
+        "type": "Vegetable",
+        "glycemic_index": 54,
+        "glycemic_load": 18,
+        "category": 1
+    },
+    {
+        "food_name": "Butternut Squash",
+        "type": "Vegetable",
+        "glycemic_index": 51,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Acorn Squash",
+        "type": "Vegetable",
+        "glycemic_index": 40,
+        "glycemic_load": 7,
+        "category": 1
+    },
+    {
+        "food_name": "Horseradish",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Rutabaga",
+        "type": "Vegetable",
+        "glycemic_index": 72,
+        "glycemic_load": 9,
+        "category": 3
+    },
+    {
+        "food_name": "Endive",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Dandelion Greens",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Arugula",
+        "type": "Vegetable",
+        "glycemic_index": 10,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Chard",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 0,
+        "category": 1
+    },
+    {
+        "food_name": "Chili Pepper",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Corn",
+        "type": "Vegetable",
+        "glycemic_index": 53,
+        "glycemic_load": 9,
+        "category": 1
+    },
+    {
+        "food_name": "Fiddlehead",
+        "type": "Vegetable",
+        "glycemic_index": 35,
+        "glycemic_load": 2,
+        "category": 1
+    },
+    {
+        "food_name": "Jicama",
+        "type": "Vegetable",
+        "glycemic_index": 15,
+        "glycemic_load": 1,
+        "category": 1
+    },
+    {
+        "food_name": "Lotus Root",
+        "type": "Vegetable",
+        "glycemic_index": 33,
+        "glycemic_load": 6,
+        "category": 1
+    }
+]
