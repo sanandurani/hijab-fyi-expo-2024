@@ -14,7 +14,8 @@ export default function RecipeList({navigation}) {
     <View style={styles.container}>
       <Text style={styles.headerText}>Recipies</Text>
       <FlatList
-        style={{width: '100%', paddingHorizontal: 20}}
+        style={{width: '100%', paddingHorizontal: 20, marginBottom: 10}}
+        contentContainerStyle={{gap: 10}}
         data={recipesData.recipes}
         keyExtractor={(item) => item.name}
         renderItem={({ item, index }) => (
@@ -41,15 +42,12 @@ const styles = StyleSheet.create({
     color: '#1f1f1f',
   },
   recipeItem: {
-    padding: 20,
-    backgroundColor: '#c3c3c3',
-    padding: 15,
-    borderRadius: 8,
-    marginBottom: 10,
-    shadowColor: '#000',
-    shadowOpacity: 0.1,
-    shadowRadius: 5,
-    elevation: 2,
+    backgroundColor: '#fff',
+    borderWidth: 0.5,
+    borderColor: "#00000050",
+    justifyContent: 'center',
+    padding: 12,
+    borderRadius: 10,
   },
   recipeTitle: {
     color: '#000',

@@ -63,24 +63,21 @@ export default function Home({navigation}) {
     };
 
     return (
-        <View style={styles.container}>
+        <View style={{backgroundColor: '#f9f9f9', flex: 1}}>
+            <View style={styles.container}>
             <View style={styles.headerContainer}>
-             <Text style={styles.headerText}>Food List</Text>
-            <TouchableOpacity onPress={() => navigation.navigate('Summary')} style={styles.summaryBtn}>
-               <Text style={styles.summaryBtnText}> + </Text>
-           </TouchableOpacity>
-        </View>
+                <Text style={styles.headerText}>Food List</Text>
+            </View>
             <View style={styles.searchContainer}>
                 <Icon name='search'/>
                 <TextInput
-                    style={styles.searchInput}
                     onChangeText={(text) => filterTextSearch(text)}
                     placeholder='Search for a food...'
                     placeholderTextColor="#888"
                 />
             </View>
 
-            <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.categoryScroll}>
+            <ScrollView horizontal showsHorizontalScrollIndicator={false} style={{marginBottom: 8}} contentContainerStyle={styles.categoryScroll}>
                 {
                     foodCategories.map((item, index) => (
                         <TouchableOpacity key={index}
@@ -88,10 +85,8 @@ export default function Home({navigation}) {
                             style={[
                                 styles.categoryButton, 
                                 { 
-                                    borderColor: item.selected ? 'green' : '#c9c9c9' , 
-                                    borderRadius: 10,
-                                    borderWidth: item.selected ? 3:1,
-                                    backgroundColor: '#fff'
+                                    borderBottomColor: item.selected ? 'green' : '#00000000',
+                                    borderBottomWidth: item.selected ? 1.5 : 0.5,
                                 }
                             ]}
                         >
@@ -102,41 +97,28 @@ export default function Home({navigation}) {
             </ScrollView>
 
             <FlatList
-                style={styles.foodList}
+                contentContainerStyle={styles.foodList}
                 data={foodList}
                 keyExtractor={(item) => item.food_name.toString()}
-                renderItem={({ item }) => (
+                renderItem={({ item }) => {
+                    const color = item.category === 3 ? '#8B0000' : item.category === 2 ? '#C2B280' : '#2C5F2D';
+                    return(
                     <View style={[
                         styles.foodItem, 
-                        { backgroundColor: item.category === 3 ? '#8B0000' : item.category === 2 ? '#C2B280' : '#2C5F2D' }
                     ]}>
-                        <View style={{ flexDirection: 'row', justifyContent: 'space-between'}}>
+                        <View style={{ flexDirection: 'row', justifyContent: 'flex-start'}}>
                             <Text style={styles.foodName}>{item.food_name}</Text>
-                            { item.category === 1?
-                                <Avatar
-                                    size={32}
-                                    rounded
-                                    icon={{ name: "thumbs-up", type: "font-awesome" }}
-                                />:
-                                item.category === 2?
-                                <Avatar
-                                    size={32}
-                                    rounded
-                                    icon={{ name: "check", type: "font-awesome" }}
-                                />:
-                                <Avatar
-                                    size={32}
-                                    rounded
-                                    icon={{ name: "thumbs-down", type: "font-awesome" }}
-                                />
-                            }
+                            <Icon style={{ display: item.category === 1 ? 'flex':'none' }} color={color} name='happy-outline' type='ionicon' />
+                            <Icon style={{ display: item.category === 2 ? 'flex':'none' }} color={color} name='sad-outline' type='ionicon'/>
+                            <Icon style={{ display: item.category === 3 ? 'flex':'none' }} color={color} name='skull-outline' type='ionicon'/>
                         </View>
                         <Text style={styles.foodType}>{item.type}</Text>
                         <Text style={styles.foodInfo}>Glycemic Index: {item.glycemic_index}</Text>
                         <Text style={styles.foodInfo}>Glycemic Load: {item.glycemic_load}</Text>
                     </View>
-                )}
+                )}}
             />
+        </View>
         </View>
     );
 }
@@ -146,7 +128,7 @@ const styles = StyleSheet.create({
         marginBottom: 0,
         alignItems: 'center',
         flexDirection: 'row',  
-        justifyContent: 'space-between', 
+        justifyContent: 'center', 
         alignItems: 'center', 
       },
       headerText: {
@@ -167,13 +149,14 @@ const styles = StyleSheet.create({
         fontSize: 18,
       },
     container: {
-        flex: 1,
         backgroundColor: '#f9f9f9',
         paddingHorizontal: 15,
         paddingVertical: 20
     },
     searchContainer: {
-        backgroundColor: '#ececec',
+        backgroundColor: 'white',
+        borderColor: 'black',
+        borderWidth: 0.5,
         borderRadius: 10,
         marginTop : 8,
         width: '100%',
@@ -183,20 +166,12 @@ const styles = StyleSheet.create({
         padding: 5,
         alignItems: 'center',
     },
-    searchInput: {
-        height: 50,
-        marginTop: 5,
-        paddingHorizontal: 10,
-        fontSize: 16,
-        color: '#333',
-    },
     categoryScroll: {
-        paddingBottom: 10
+        marginTop: 8,
+        marginBottom: 16
     },
     categoryButton: {
-        margin: 5,
         padding: 5,
-        elevation: 2,
         height: 40,
         justifyContent: 'center'
     },
@@ -205,29 +180,32 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
     },
     foodList: {
-        marginTop: 10,
+        gap: 5
     },
     foodItem: {
         borderRadius: 5,
+        borderColor: '#00000050',
+        borderWidth: 0.5,
         padding: 15,
         marginBottom: 10,
-        elevation: 3,
+        backgroundColor: 'white',
         shadowColor: '#000',
         shadowOpacity: 0.1,
         shadowRadius: 5
     },
     foodName: {
-        color: 'white',
+        color: 'black',
         fontWeight: 'bold',
-        fontSize: 18
+        fontSize: 18,
+        marginRight: 10
     },
     foodType: {
-        color: 'white',
+        color: 'black',
         fontSize: 16,
         marginTop: 2
     },
     foodInfo: {
-        color: 'white',
+        color: 'black',
         fontSize: 14,
         marginTop: 2
     }

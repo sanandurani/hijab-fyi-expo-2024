@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, Image, StyleSheet } from 'react-native';
+import { View, Text, Image, StyleSheet, ScrollView } from 'react-native';
 
 export default function Seemore({ navigation, route }) {
   const { recipe } = route.params; // Destructure recipe object
@@ -8,73 +8,73 @@ export default function Seemore({ navigation, route }) {
   function imageUrl() {
     switch (image) {
       case 'tacos':
-      return require('../assets/tacos.png')
+      return require('../assets/tacos.jpg')
 
       case 'biryani':
-      return require('../assets/biryani.png')
+      return require('../assets/biryani.jpg')
 
       case 'veg-stir-fry':
-      return require('../assets/vege.png')
+      return require('../assets/vege.jpg')
 
       case 'lasagna':
-      return require('../assets/lasagna.png')
+      return require('../assets/lasagna.jpg')
 
       case 'paneer-tikka':
-      return require('../assets/paneer.png')
+      return require('../assets/paneer.jpg')
 
       case 'pasta-carbonara':
-      return require('../assets/pasta.png')
+      return require('../assets/pasta.jpg')
 
       case 'afghani-kebab':
-      return require('../assets/afghani.png')
+      return require('../assets/afghani.jpg')
 
       case 'fish-curry':
-      return require('../assets/fish.png')
+      return require('../assets/fish.jpg')
 
       case 'chicken-stir-fry':
-      return require('../assets/chicken.png')
+      return require('../assets/chicken.jpg')
 
       case 'fried-rice':
-      return require('../assets/fried.png')
+      return require('../assets/fried.jpg')
 
       case 'quesadilla':
-      return require('../assets/que.png')
+      return require('../assets/que.jpg')
 
       case 'dosa':
-      return require('../assets/dosa.png')
+      return require('../assets/dosa.jpg')
 
       case 'shrimp-fried-rice':
-      return require('../assets/shrimp.png')
+      return require('../assets/shrimp.jpg')
 
       case 'tandoori-chicken':
-      return require('../assets/tandoor.png')
+      return require('../assets/tandoor.jpg')
 
       case 'eggplant-parmesan':
-      return require('../assets/eggplant.png')
+      return require('../assets/eggplant.jpg')
 
       case 'samosa':
-      return require('../assets/samosa.png')
+      return require('../assets/samosa.jpg')
 
       case 'guacamole-with-chips':
-      return require('../assets/chips.png')
+      return require('../assets/chips.jpg')
 
       case 'chapli-kebab':
-      return require('../assets/chapli.png')
+      return require('../assets/chapli.jpg')
 
       case 'ravioli-with-tomato-sauce':
-      return require('../assets/ravioli.png')
+      return require('../assets/ravioli.jpg')
 
       case 'prawn-curry':
-      return require('../assets/prawn.png')
+      return require('../assets/prawn.jpg')
       
       default:
-      return require('../assets/prawn.png')
+      return require('../assets/prawn.jpg')
     }
   }
 
   return (
-    <View style={styles.container}>
-      
+    <ScrollView contentContainerStyle={styles.container}>
+    
       <Image
         source={imageUrl()}
         style={styles.recipeImage}
@@ -91,12 +91,12 @@ export default function Seemore({ navigation, route }) {
         <Text style={[styles.sectionTitle, styles.fontWeightBold, styles.textColor, styles.subTitleSize,]}>Ingredients:</Text>
         <View style={{gap: 5}}>
         {ingredients.map((ingredient, index) => (
-          <View style={{flexDirection: 'row', justifyContent: 'space-between',}}>
-            <Text style={[styles.ingredient, styles.textColor, styles.contentSize]} key={index}>
+          <View key={index} style={{flexDirection: 'row', flexWrap: 'wrap',}}>
+            <Text style={[styles.textColor, styles.contentSize]}>
               {ingredient.name}:
             </Text>
-            <Text style={[styles.ingredient, styles.textColor, styles.contentSize]} key={index}>
-              (GI: {ingredient.glycemic_index}, GL: {ingredient.glycemic_load}, Category: {ingredient.category})
+            <Text style={[styles.subTextColor, styles.contentSize]}>
+              (GI: {ingredient.glycemic_index}, GL: {ingredient.glycemic_load}, Category: {ingredient.category === 3 ? 'Worse' : ingredient.category === 2 ? 'Bad' : 'Good'})
             </Text>
           </View>
         ))}
@@ -108,19 +108,19 @@ export default function Seemore({ navigation, route }) {
         <Text style={[styles.sectionTitle, styles.fontWeightBold, styles.textColor, styles.subTitleSize, ]}>Instructions:</Text>
         <View>
           {instructions.map((instruction, index) => (
-            <Text style={[styles.instructions, styles.contentSize]} key={index}>
+            <Text key={index} style={[styles.instructions, styles.contentSize]}>
               {index + 1}. {instruction}
             </Text>
           ))}
         </View>
       </View>
-    </View>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    marginVertical: 20,
+    marginBottom: 40,
     paddingHorizontal: 20,
     backgroundColor: '#f5f5f5', // Light background
     gap: 20
@@ -132,6 +132,11 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   textColor: {
+    color: '#000000',
+    fontWeight: 'bold'
+  },
+  subTextColor: {
+    marginLeft: 5,
     color: '#000000'
   },
   mainTitleSize: {

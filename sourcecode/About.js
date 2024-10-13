@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, ScrollView } from 'react-native';
 
 export default function About() {
   return (
-    <ScrollView style={styles.container}>
+    <ScrollView style={styles.container} contentContainerStyle={{gap: 10}}>
       <View style={styles.headerContainer}>
         <Text style={styles.headerText}>Glycemic Index & Load Information</Text>
       </View>
@@ -58,10 +58,8 @@ const styles = StyleSheet.create({
       flex: 1,
       backgroundColor: '#f4f4f9',
       paddingHorizontal: 20,
-      paddingVertical: 30,
     },
     headerContainer: {
-      marginBottom: 20,
       alignItems: 'center',
     },
     headerText: {
@@ -73,11 +71,8 @@ const styles = StyleSheet.create({
       backgroundColor: '#fff',
       borderRadius: 8,
       padding: 15,
-      marginVertical: 10,
-      shadowColor: '#000',
-      shadowOpacity: 0.1,
-      shadowRadius: 5,
-      elevation: 5,
+      borderColor: '#00000050',
+      borderWidth: 0.5
     },
     title: {
       fontSize: 18,
